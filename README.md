@@ -1,2 +1,2 @@
-# An-lisis-de-datos
-En este repositorio se verá todo aquello que tenga que ver con la visualización y análisis de datos para poder optimizar los datos para la construcción a partir de ellos
+#Análisis de datos en Amazon
+Se limpiaran los datos, se entrara en profundidad en ellos y podremos hacer estadística descriptiva así como gráficas para comprender lo que esta sucediendop en esta empresa relacionada con sus productos
