@@ -1,2 +1,2 @@
-#Análisis de datos en Amazon
-Se limpiaran los datos, se entrara en profundidad en ellos y podremos hacer estadística descriptiva así como gráficas para comprender lo que esta sucediendop en esta empresa relacionada con sus productos. Se trabajann diversas gráficas y diagramas
+#Análisis de dats
+Aquí veremos muchas formas de limpiar datos y analizar datos tanto en Python como en R
