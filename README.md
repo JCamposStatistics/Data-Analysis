@@ -1,3 +1,4 @@
 #Análisis de datos 
 
-Aquí veremos formas de limpiar y analizar datos tanto en Python como en R
+Here we will see the ways to clean and parse the data in both Python and R
+Aquí veremos las formas de limpiar y analizar los datos tanto en Python como en R 
